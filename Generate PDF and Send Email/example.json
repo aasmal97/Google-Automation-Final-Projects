@@ -1,0 +1,41 @@
+[{
+    "id": 47,
+    "car": {
+            "car_make": "Lamborghini",
+            "car_model": "Murciélago",
+            "car_year": 2002
+    },
+    "price": "$13724.05",
+    "total_sales": 149
+},
+{
+    "id": 48,
+    "car": {
+            "car_make": "Lamborghini",
+            "car_model": "Murciélago",
+            "car_year": 2001
+    },
+    "price": "$13723.01",
+    "total_sales": 232
+},
+{
+    "id": 49,
+    "car": {
+            "car_make": "Lamborghini",
+            "car_model": "Murciélago",
+            "car_year": 2000
+    },
+    "price": "$14000.00",
+    "total_sales": 112
+},
+{
+    "id": 50,
+    "car": {
+            "car_make": "Lamborghini",
+            "car_model": "Murciélago",
+            "car_year": 2000
+    },
+    "price": "$14000.00",
+    "total_sales": 200
+}
+]
